@@ -1,5 +1,5 @@
-def turn_count(board)
-board = 
+def turn_count(board) 
+board = [" "," "," "," "," "," "," "," "," "]
 counter = 0
 turn_count.each do |board|
 counter +=1
